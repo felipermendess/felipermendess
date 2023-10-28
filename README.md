@@ -6,7 +6,7 @@
 
 ![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipermendess&show_icons=true&theme=dracula)
 
-### Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,6 +17,6 @@
 
 Apaixonado por tecnologia e programação, fique a vontade para ver alguns de meus projetos.
 
-### Entre em contato comigo: @felipermendes04@gmail.com
+### Entre em contato comigo: felipermendes04@gmail.com
 
 
