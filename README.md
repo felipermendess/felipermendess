@@ -10,7 +10,7 @@
    (UX | UI | HTML | CSS | JavaScript | Git | Github | Bootstrap | Java) 🚀
 </div> <br>
 
-Apaixonado por tecnologia e programação, fique a vontade para ver alguns de meus projetos.
+Apaixonado por tecnologia e programação, fique a vontade para ver alguns de meus projetos 💻
 
 ### Entre em contato comigo: felipermendes04@gmail.com
 
