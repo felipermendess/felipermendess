@@ -16,6 +16,10 @@
    <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br/>
 
+<div>
+   (UX | UI | HTML | CSS | JavaScript | Git | Github | Bootstrap | Java) 🚀
+</div>
+
 Apaixonado por tecnologia e programação, fique a vontade para ver alguns de meus projetos.
 
 ### Entre em contato comigo: felipermendes04@gmail.com
