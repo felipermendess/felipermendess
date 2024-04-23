@@ -8,7 +8,7 @@
 ![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipermendess&show_icons=true&theme=dracula)
 
 <div>
-   (UX | UI | HTML | CSS | JavaScript | Git | Github | Bootstrap | Java) 🚀
+   (UX | UI | HTML | CSS | JavaScript | Git | Java) 🚀
 </div> <br>
 
 Apaixonado por tecnologia e programação, fique a vontade para ver alguns de meus projetos 💻
