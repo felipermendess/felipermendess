@@ -5,13 +5,15 @@
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://felipermendess.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipermendes04@gmail.com)
 
-![Mendes GitHub stats](https://github-readme-stats.vercel.app/api?username=felipermendess&show_icons=true&theme=dracula)
-
+### Minhas Skills
 <div>
-   (UX | UI | HTML | CSS | JavaScript | Git | Java) 🚀
-</div> <br>
+   ( UX | UI | HTML | CSS | JavaScript | Git ) 🚀
+</div> 
 
-Apaixonado por tecnologia e programação, fique a vontade para ver alguns de meus projetos 💻
+### Estudando
+<div>
+   ( JavaScript | Inglês ) 📚
+</div> <br>
 
 
 
