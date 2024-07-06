@@ -12,7 +12,7 @@
 
 ### Estudando
 <div>
-   ( JavaScript | Inglês ) 📚
+   ( JavaScript ) 📚
 </div> <br>
 
 
