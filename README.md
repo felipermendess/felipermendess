@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Felipe Mendes 👋
 <p>👨‍💻 Desenvolvedor Full Stack</p>
 <p>🎓 Cursando Análise e Desenvolvimento de Sistemas</p>
-<p>📘 Atualmente estudando PHP</p>
+<p>📘 Atualmente estudando PHP e Laravel</p>
 <p>📩 felipermendes04@gmail.com</p>
 
 ## Skills
